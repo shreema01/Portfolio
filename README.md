@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/mishuk09/Portfolio/blob/main/Portfolio.PNG" alt="Portfolio Banner">
+  <img src="https://github.com/shreema01/Portfolio/blob/main/Portfolio.png" alt="Portfolio Banner">
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm [Mahadi Hasan Mishuk]</h1>
+<h1 align="center">Hi 👋, I'm [Shreema Dey Purba]</h1>
 <h3 align="center">[ Aspiring Computer Engineer | Web Development and DSA Completist| Practicing HTML, CSS, JavaScript, React & Node.JS]</h3>
 
 <!-- Profile Views Badge -->
@@ -15,14 +15,14 @@
 <br>
 
 <!-- What I'm Currently Working On -->
-- 🔭 I’m currently working on [CSEHacks](http://mahadiinfo.me/CSE-Hacks/)
+- 🔭 I’m currently working on [CSEHacks](#)
 
 <!-- About Me -->
 - 🌱 I’m currently learning **[React JS]**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mishuk09)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shreema01)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZebBBpfdJ3B8edAajIWJQh7yVPdIQJK2/view?usp=sharing)
+- 📄 Know about my experiences [RESUME]( #)
 
  
 
@@ -34,17 +34,17 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mishuk09/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreema01/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/mishuk09" target="_blank">
+  <a href="https://github.com/shreema01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   
   <!-- Email -->
-  Email: [mishukinfo09@gmail.com](mailto:mishukinfo09@gmail.com)
+  Email: [spurba001@rku.ac.in](mailto:spurba001@rku.ac.in)
   
   <!-- Contact Number -->
   Call: +91 7069078661
